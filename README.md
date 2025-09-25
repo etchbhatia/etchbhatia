@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harpreet Bhatia 
+👋 Hi, I’m Harpreet Bhatia 
 
 
 <!---
